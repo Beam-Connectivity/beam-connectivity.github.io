@@ -1,7 +1,7 @@
 
 Hello! Want to know what we're building?  Check out our main website **[here](https://beamconnectivity.com)** 
 
-# Careers
+## Careers
 
 We are always hunting for hungry, talented people. 
 
