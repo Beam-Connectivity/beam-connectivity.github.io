@@ -41,4 +41,4 @@ However, we are always hunting for hungry, talented people. So if the above role
 
 All the best,
 
-Beam Team 💌
+Beam Team
