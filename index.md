@@ -1,9 +1,6 @@
 
 Hello! Want to know what we're building?  Check out our main website **[here](https://beamconnectivity.com)** 
 
-## Careers
-
-We are always hunting for hungry, talented people. 
 
 #### Why work at Beam?
 
@@ -22,8 +19,15 @@ We are always hunting for hungry, talented people.
 
 #### Open positions
 
+These are some specific vacancies that we have:
+
 [Senior Cloud Engineer 1](https://beamconnectivity.com) 
 
 [Cloud Engineer 2](https://beamconnectivity.com) 
 
 [Technical Project Manager](https://beamconnectivity.com) 
+
+However, we are always hunting for hungry, talented people. So if the above roles don't resonate with you, feel free drop us a mail at careers@beamconnectivity.com with your CV and what you can bring to the party.
+
+All the best,
+Beam Team
