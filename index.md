@@ -1,6 +1,7 @@
 
 Hello! Want to know what we're building?  Check out our main website **[here](https://beamconnectivity.com)** 
 
+This site is all about our Beam Team developers - our high performance, cross-functional team of embedded, cloud and mobile engineers.
 
 #### Why work at Beam?
 
@@ -12,7 +13,7 @@ Hello! Want to know what we're building?  Check out our main website **[here](ht
 
 🤼 The whole team is super-smart and friendly
 
-📍 We are a remote and flexible team - fitting in with other commitments is important to us
+ 📍 We are a remote and flexible team - fitting in with other commitments is important to us
 
 🥳 We build great products and have fun doing it
 
@@ -21,13 +22,12 @@ Hello! Want to know what we're building?  Check out our main website **[here](ht
 
 These are some specific vacancies that we have:
 
-[Senior Cloud Engineer 1](https://beamconnectivity.com) 
+* [Senior Cloud Engineer 1](https://beamconnectivity.com) 
+* [Cloud Engineer 2](https://beamconnectivity.com) 
+* [Technical Project Manager](https://beamconnectivity.com) 
 
-[Cloud Engineer 2](https://beamconnectivity.com) 
-
-[Technical Project Manager](https://beamconnectivity.com) 
-
-However, we are always hunting for hungry, talented people. So if the above roles don't resonate with you, feel free drop us a mail at careers@beamconnectivity.com with your CV and what you can bring to the party.
+However, we are always hunting for hungry, talented people. So if the above roles don't resonate with you, feel free drop us a mail at [careers@beamconnectivity.com](mailto:careers@beamconnectivity.com) with your CV and what you can bring to the party.
 
 All the best,
+
 Beam Team
