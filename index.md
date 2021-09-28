@@ -6,9 +6,9 @@ This site is all about our Beam Team developers - our high performance, cross-fu
 ### We ❤ modern tech
 
 We use the right tool for the job but try to converge around a few, solid but flexible technologies:
-* 🚗 Embedded: Linux, C, bash, python, SQLite
-* ⛅ Cloud: MQTT, AWS serverless, python, Presto DB, Apache Spark, CloudFlare
-* 📱 Mobile: Swift, Kotlin, Fastlane, Firebase
+* 🚗 **Embedded**: Linux, C, bash, python, SQLite
+* ⛅ **Cloud**: MQTT, AWS serverless, python, Presto DB, Apache Spark, CloudFlare
+*  📱 **Mobile**: Swift, Kotlin, Fastlane, Firebase
 
 Our CI-CD infrastructure is highly automated and runs on Azure DevOps. We are rightfully proud of how smoothly and consistently we can deliver quality software. Our delivery process gives us clear traceability from tickets, through code, tests and PRs, and out to automated release pipelines.
 
