@@ -1,4 +1,3 @@
-# Welcome to the Beam Connectivity Developer Site! 
 
 Hello! Want to know what we're building?  Check out our main website **[here](https://beamconnectivity.com)** 
 
