@@ -3,20 +3,26 @@ Hello! Want to know what we're building?  Check out our main website **[here](ht
 
 This site is all about our Beam Team developers - our high performance, cross-functional team of embedded, cloud and mobile engineers.
 
-### We ❤ modern tech
+## We ❤ modern tech
 
-We use the right tool for the job but try to converge around a few, solid but flexible technologies:
-* 🚗 **Embedded**: Linux, C, bash, python, SQLite
-* ⛅ **Cloud**: MQTT, AWS serverless, python, Presto DB, Apache Spark, CloudFlare
-*  📱 **Mobile**: Swift, Kotlin, Fastlane, Firebase
+We use the right tool for the job but try to converge around a few, solid but flexible technologies.
+
+🚗 **Embedded**: Linux, C, bash, python, SQLite
+
+⛅ **Cloud**: MQTT, AWS serverless, python, Presto DB, Apache Spark, CloudFlare
+
+📱 **Mobile**: Swift UI, Kotlin, Fastlane, Firebase
+
+🧰 **DevOps**: Docker, Azure DevOps, bash, python
 
 Our CI-CD infrastructure is highly automated and runs on Azure DevOps. We are rightfully proud of how smoothly and consistently we can deliver quality software. Our delivery process gives us clear traceability from tickets, through code, tests and PRs, and out to automated release pipelines.
 
 We also do a lot of hardware engineering, both prototyping with Raspberry Pis and developing our own, bespoke, automotive-grade electronics. 
 
-### Why work at Beam?
 
-🚗 We work at the cutting edge of automotive technology - Connected cars, EVs, cyber security, etc
+## Why work at Beam?
+
+🚗 We work at the cutting edge of automotive technology - Connected cars, EVs, cyber security
 
 👩🏼‍💻 We use modern tech and dev practices that improve our lives as developers
 
@@ -29,7 +35,7 @@ We also do a lot of hardware engineering, both prototyping with Raspberry Pis an
 🥳 We build great products and have fun doing it
 
 
-### Open positions
+## Open positions
 
 These are some specific vacancies that we have:
 
