@@ -28,6 +28,8 @@ We also do a lot of hardware engineering, both prototyping with Raspberry Pis an
 
 👨🏼‍🏫 We are always learning and looking to improve *how* we work
 
+👐🏼 We love OSS, both using and contributing 
+
 🤼 The whole team is super-smart and friendly
 
  📍 We are a remote and flexible team - fitting in with other commitments is important to us
@@ -43,7 +45,7 @@ These are some specific vacancies that we have:
 * [TBC Cloud Engineer 2](https://beamconnectivity.com) 
 * [TBC Technical Project Manager](https://beamconnectivity.com) 
 
-However, we are always hunting for hungry, talented people. So if the above roles don't resonate with you, feel free drop us a mail at [careers@beamconnectivity.com](mailto:careers@beamconnectivity.com) with your CV and what you can bring to the party.
+However, we are always hunting for hungry, talented people. So if the above roles don't resonate with you, feel free drop us your CV at [careers@beamconnectivity.com](mailto:careers@beamconnectivity.com) and tells us what you can bring to the party.
 
 All the best,
 
