@@ -1,2 +1,9 @@
-theme: jekyll-theme-slate
-title: Welcome to the Beam Team Dev site
+theme: jekyll-theme-tactile
+#theme: jekyll-theme-slate
+#title: Welcome to the Beam Team Dev site
+github:
+  is_project_page: false
+
+links:
+  - title: Home
+    url: /
