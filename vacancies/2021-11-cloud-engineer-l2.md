@@ -9,7 +9,7 @@ order: 1
 * **Location**: Remote, with occasional company meetings in Bristol (maximum 1x a month)
 * **Term**: Full time, Permanent
 * **Salary**: Competitive
-* **Contact**: Email [careers@beamconnectivity.com](mailto://careers@beamconnectivity.com)
+* **Contact**: Email [careers@beamconnectivity.com](mailto://careers@beamconnectivity.com?subject=Role 2021-11-cloud-engineer-l2)
 
 
 ## About Beam Connectivity
@@ -65,7 +65,7 @@ These are disciplines that we are already strong in because they're part of our 
 
 ## Get in touch
 
-Please email us at [careers@beamconnectivity.com](mailto://careers@beamconnectivity.com) with reference `2021-11-cloud-engineer-l2` if you would like to learn more or apply for the role.
+Please email us at [careers@beamconnectivity.com](mailto://careers@beamconnectivity.com?subject=Role 2021-11-cloud-engineer-l2) if you would like to learn more or apply for the role.
 
 <br />
 - - - 
