@@ -4,14 +4,21 @@
 @import "{{ site.theme }}";
 
 .inner {
-  min-width: 50%;
-  max-width: 70%;
+    max-width: 800px;
+}
+
+project_title {
+    color: #264AFF;
 }
 
 h1 {
-    padding-bottom: 20px;
+    color: #264AFF;
   }
 
 h2 {
-    padding-top: 20px;
+    color: #264AFF;
+}
+
+h3 {
+    color: #264AFF;
 }

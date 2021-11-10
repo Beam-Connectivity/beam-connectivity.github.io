@@ -1,20 +1,23 @@
 ---
-title: Welcome to Beam Connectivity Dev Site
 layout: default
 ---
 
-Hello 👋🏼
+We are the Beam Connectivity developers - Hello 👋🏼
 
-Want to know what we're building? Our main platform is called CVaaS - Connected Vehicle as a Service - and it's made up of hardware and software that runs on a vehicle, a cloud platform on AWS, and some mobile apps. 
+We are building a platform is called CVaaS - Connected Vehicle as a Service - and it's made up of hardware and software that runs on a vehicle, a cloud platform on AWS, and some mobile apps. Our platform architecture (and org architecture!) is focussed on three pillars:
+
+1. **Highly Performant** - Minimising the latency between vehicle<>cloud<>app, which in turn supercharges the User Experience.
+2. **Highly Secure** - Cyber security has never been more important and all indications are that the future will be even more hostile.
+3. **Highly Flexible** - Much like our team, our platform majors on rapid integration into a variety of vehicles and backoffice IT systems.
 
 We supply the complete, end-to-end platform so we can optimse the performance and security of the whole system rather than being locked into an API that we can't change. If you want to understand more about our platform, check out our main website at [https://beamconnectivity.com](https://beamconnectivity.com). 
 
-This site is all about our Beam Team developers - our high performance, cross-functional team of embedded, cloud and mobile engineers.
+This site is all about our Beam Team developers - our high performance, cross-functional team of hardware, embedded, cloud and mobile engineers.
 
 
-# Why work at Beam?
+# Why work at Beam? <a name="why-beam"></a>
 
-Founded in early 2020, we are sustainably growing the team. Working with us offers a host of benefits, including:
+Founded in early 2020, we are sustainably growing the team to match our new customer commitments.
 
 🚗 We work at the cutting edge of automotive & mobility technology - Connected cars, EVs, eBikes, cyber security
 
@@ -26,13 +29,12 @@ Founded in early 2020, we are sustainably growing the team. Working with us offe
 
 🤼 The whole team is super-smart and friendly
 
- 📍 We are a remote and flexible team - fitting in with life commitments is important to us
+ 📍 We are a remote and flexible team - fitting around life commitments is important to us - whether that's children, hobbies or body-clocks!
 
 🥳 We build great products and have fun doing it
 
 
-# We ❤ modern tech
-
+# We ❤ modern tech <a name="modern-tech"></a>
 
 We use the right tool for the job but do try to converge around a few, solid but flexible technologies.
 
@@ -51,7 +53,6 @@ We also do a lot of hardware engineering, both prototyping with Raspberry Pis an
 
 # Interview process <a name="interview-process"></a>
 
-
 As a small company, every hire is important to our growth. We are remote-first using modern, digital tools, so the ability to communicate clearly is an essential skill that we all need. As an engineer we need you to be able to articulate problems you're having, explain how things work, and influence other members of the Beam Team when you have a killer idea. We believe that interviews are a two-way process - it is vital we understand what we each are looking for. 
 
 We recruit for potential and to maximise fit with the team, rather than demanding the right buzzwords on your CV. We don't expect you to have exercised all the skills we need (*else how does anyone get a break?*) but a successful candidate should be able to convince us that they can do the job. This is the interview process: 
@@ -62,8 +63,7 @@ We recruit for potential and to maximise fit with the team, rather than demandin
 4. **Final interview** - An opportunity to meet a couple of other people in Beam Connectivity, so you can ask questions and get to know more about what it's like being part of the team. *30 minutes - 1 hour*
 
 
-# Open positions
-
+# Open positions <a name="vacancies"></a>
 
 These are some specific vacancies that we have:
 
@@ -73,7 +73,8 @@ These are some specific vacancies that we have:
 
 However, we are always hunting for hungry, talented people. So if the above roles don't appeal to you, feel free drop us your CV at [careers@beamconnectivity.com](mailto:careers@beamconnectivity.com) and tell us what you can bring to the party.
 
+
 <br />
 - - -
 <br />
-© 2021 | Beam Connectivity
+*© 2021 | Beam Connectivity*
