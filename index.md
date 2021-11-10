@@ -6,7 +6,7 @@ We are the Beam Connectivity developers - Hello 👋🏼
 
 We are building a platform is called CVaaS - Connected Vehicle as a Service - and it's made up of hardware and software that runs on a vehicle, a cloud platform on AWS, and some mobile apps. Our platform architecture (and org architecture!) is focussed on three pillars:
 
-1. **Highly Performant** - Minimising the latency between vehicle<>cloud<>app, which in turn supercharges the User Experience.
+1. **Highly Performant** - Minimising the latency between vehicle ↔ cloud ↔ app, which in turn supercharges the User Experience.
 2. **Highly Secure** - Cyber security has never been more important and all indications are that the future will be even more hostile.
 3. **Highly Flexible** - Much like our team, our platform majors on rapid integration into a variety of vehicles and backoffice IT systems.
 
