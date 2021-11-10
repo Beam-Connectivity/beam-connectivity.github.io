@@ -6,11 +6,12 @@ order: 1
 
 <h1>Cloud Software Engineer, Level 2</h1>
 
-* **Start date**: Immediate
-* **Location**: Remote, with occasional company meetings in Bristol (maximum 1x a month)
-* **Term**: Full time, Permanent
-* **Salary**: Competitive
-* **Contact**: Email [careers@beamconnectivity.com](mailto://careers@beamconnectivity.com?subject=Role 2021-11-cloud-engineer-l2)
+📝 **Reference** | 2021-11-cloud-engineer-l2
+📅 **Start date** | Immediate
+📍 **Location** | Remote, with occasional company meetings in Bristol (maximum 1x a month)
+⏲ **Term** | Full time, Permanent
+👛 **Salary** | Competitive
+📧 **Contact** | Email [careers@beamconnectivity.com](mailto://careers@beamconnectivity.com?subject=Role 2021-11-cloud-engineer-l2)
 
 
 ### About Beam Connectivity
@@ -74,4 +75,5 @@ Read about the [Interview process](/#interview-process) and [what's great about 
 - - - 
 Back to [Home](/)
 
+<br />
 *© 2021 | Beam Connectivity*
