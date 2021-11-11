@@ -1,10 +1,10 @@
 ---
-title: "Role: Cloud Software Engineer L2"
+title: "Role: Cloud Software Engineer"
 category: Roles
 order: 1
 ---
 
-<h1>Cloud Software Engineer, Level 2</h1>
+<h1>Cloud Software Engineer</h1>
 
 📝 **Reference** | 2021-11-cloud-engineer-l2
 📅 **Start date** | Immediate
