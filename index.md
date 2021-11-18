@@ -71,6 +71,12 @@ These are some specific vacancies that we have:
 
 🚀 [**Cloud Software Engineer L2** - UK, Remote](/vacancies/2021-11-cloud-engineer-l2) 
 
+🚀 **Embedded Software Engineer L2** - UK, Remote [COMING SOON]
+
+🚀 **Embedded Software Engineer L2 or L3** - UK, Remote [COMING SOON]
+
+🚀 **Technical Project Manager** - UK, Remote [COMING SOON]
+
 However, we are always hunting for hungry, talented people. So if the above roles don't appeal to you, feel free drop us your CV at [careers@beamconnectivity.com](mailto:careers@beamconnectivity.com) and tell us what you can bring to the party.
 
 
