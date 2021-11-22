@@ -27,9 +27,11 @@ Founded in early 2020, we are sustainably growing the team to match our new cust
 
 👐🏼 We love OSS, both using and contributing 
 
-🤼 The whole team is super-smart and friendly
+👯‍♀️ The whole team is super-smart and friendly
 
  📍 We are a remote and flexible team - fitting around life commitments is important to us - whether that's children, hobbies or body-clocks!
+
+✂ As a small company, there is no bureaucracy and decisions are made by the people closest to the problem
 
 🥳 We build great products and have fun doing it
 
@@ -67,13 +69,13 @@ We recruit for potential and to maximise fit with the team, rather than demandin
 
 These are some specific vacancies that we have:
 
-🚀 ~~Cloud Software Engineer L3 - Remote~~ - Filled
+🚀 ~~Senior Cloud Software Engineer L3 - Remote~~ - Filled
 
-🚀 [**Cloud Software Engineer L2** - UK, Remote](/vacancies/2021-11-cloud-engineer-l2) 
+🚀 [**Cloud Software Engineer** - UK, Remote](/vacancies/2021-11-cloud-engineer-l2) 
 
-🚀 **Embedded Software Engineer L2** - UK, Remote [COMING SOON]
+🚀 **Embedded Software Engineer** - UK, Remote [COMING SOON]
 
-🚀 **Embedded Software Engineer L2 or L3** - UK, Remote [COMING SOON]
+🚀 **Embedded Software Engineer** - UK, Remote [COMING SOON]
 
 🚀 **Technical Project Manager** - UK, Remote [COMING SOON]
 
