@@ -61,9 +61,10 @@ These are the primary skills that the job entails.
 These are disciplines that we are already strong in because they're part of our core stack. Any experience you have with these would be a bonus, but is by no means a requirement.
 
 1. Python skills.
-1. Working with CAN devices or other bus protocols.
+1. Neworking and/or wireless comms - cellular, Wi-Fi, Bluetooth.
+1. CAN devices or other bus protocols.
 1. Hardware prototyping experience with commodity components - e.g. Raspberry Pi, Arduino.
-1. DevOps mindset - knowing how to automate development and operational tasks.
+1. DevOps mindset - knowing how and when to automate development and operational tasks.
 
 
 ### Get in touch
