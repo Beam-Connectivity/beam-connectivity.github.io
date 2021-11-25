@@ -38,11 +38,11 @@ Founded in early 2020, we are sustainably growing the team to match our new cust
 
 # We ❤ modern tech <a name="modern-tech"></a>
 
-We use the right tool for the job but do try to converge around a few, solid but flexible technologies.
+We use the right tool for the job but do try to converge around a few, solid but flexible technologies ([and here's why](https://mcfunley.com/choose-boring-technology)). These make up the main _spine_ of the platform:
 
 🚗 **Embedded**: Linux, C, bash, python, SQLite
 
-⛅ **Cloud**: MQTT, AWS serverless, Python, Javascript, Presto DB, Apache Spark, CloudFlare
+⛅ **Cloud**: MQTT, AWS serverless, Python, Javascript/Typescript, Presto DB, Apache Spark, CloudFlare
 
 📱 **Mobile**: Swift, Kotlin, Fastlane, Firebase
 
