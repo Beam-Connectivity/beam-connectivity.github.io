@@ -15,7 +15,7 @@ We supply the complete, end-to-end platform so we can optimse the performance an
 This site is all about our Beam Team developers - our high performance, cross-functional team of hardware, embedded, cloud and mobile engineers.
 
 
-# Why work at Beam? <a name="why-beam"></a>
+# Life at Beam <a name="life-at-beam"></a>
 
 Founded in early 2020, we are sustainably growing the team to match our new customer commitments.
 
@@ -40,13 +40,13 @@ Founded in early 2020, we are sustainably growing the team to match our new cust
 
 We use the right tool for the job but do try to converge around a few, solid but flexible technologies ([and here's why](https://mcfunley.com/choose-boring-technology)). These make up the main _spine_ of the platform:
 
-🚗 **Embedded**: Linux, C, bash, python, SQLite
+* 🚗 **Embedded**: Linux, C, bash, python, SQLite
 
-⛅ **Cloud**: MQTT, AWS serverless, Python, Javascript/Typescript, Presto DB, Apache Spark, CloudFlare
+* ⛅ **Cloud**: MQTT, AWS serverless, Python, Javascript/Typescript, Presto DB, Apache Spark, CloudFlare
 
-📱 **Mobile**: Swift, Kotlin, Fastlane, Firebase
+* 📱 **Mobile**: Swift, Kotlin, Fastlane, Firebase
 
-🧰 **DevOps**: Docker, Azure DevOps, bash, python
+* 🧰 **DevOps**: Docker, Azure DevOps, bash, python
 
 Our CI-CD infrastructure is highly automated and runs on Azure DevOps. We are rightfully proud of how smoothly and consistently we can deliver quality software. Our delivery process gives us clear traceability from tickets, through code, tests and PRs, and out to automated release pipelines.
 
@@ -65,6 +65,25 @@ We recruit for potential and to maximise fit with the team, rather than demandin
 4. **Final interview** - An opportunity to meet a couple of other people in Beam Connectivity, so you can ask questions and get to know more about what it's like being part of the team. *30 minutes - 1 hour*
 
 
+# Beam Team Perks <a name="beam-team-perks"></a>
+
+We understand that the package is about more than just the salary and company culture, so we want to be clear about what you will get as a Beam staffer:
+
+* 🌍 Highly flexible, remote working
+
+* ⛱ 25 days holiday
+
+* 👩🏼‍🏫 Professional development budget
+
+* 🏠 Home office budget to supercharge your workspace
+
+* 💻 M1 MacBook or equivalent laptop
+
+* 👴🏼 Competitive pension
+
+* 🎉 Genuinely fun company away days (last time we went rally driving!)
+
+
 # Open positions <a name="vacancies"></a>
 
 These are some specific vacancies that we have:
@@ -73,9 +92,9 @@ These are some specific vacancies that we have:
 
 🚀 [**Cloud Software Engineer** - UK, Remote](/vacancies/2021-11-cloud-engineer-l2) 
 
-🚀 **Embedded Software Engineer** - UK, Remote [COMING SOON]
+🚀 [**Embedded Software Engineer** - UK, Remote](/vacancies/2021-11-embedded-engineer-l2-01)
 
-🚀 **Embedded Software Engineer** - UK, Remote [COMING SOON]
+🚀 [**Embedded Software Engineer** - UK, Remote](/vacancies/2021-11-embedded-engineer-l2-02)
 
 🚀 **Technical Project Manager** - UK, Remote [COMING SOON]
 

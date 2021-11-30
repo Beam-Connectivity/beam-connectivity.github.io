@@ -71,7 +71,7 @@ These are disciplines that we are already strong in because they're part of our 
 
 Please email us at [careers@beamconnectivity.com](mailto://careers@beamconnectivity.com?subject=Role 2021-11-embedded-engineer-l2) if you would like to learn more or apply for the role.
 
-Read about the [Interview process](/#interview-process) and [what's great about working at Beam](/#why-beam).
+Read about the [Interview process](/#interview-process), the [perks](/#beam-team-perks) and [what's great about working at Beam](/#life-at-beam).
 
 <br />
 - - - 

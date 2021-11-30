@@ -5,6 +5,8 @@ title: Beam Connectivity Developers 🚀
 github:
   is_project_page: false
 
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'CNAME']
+
 links:
   - title: Home
     url: /
