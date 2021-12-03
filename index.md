@@ -99,15 +99,3 @@ These are some specific vacancies that we have:
 🚀 **Technical Project Manager** - UK, Remote [COMING SOON]
 
 However, we are always hunting for hungry, talented people. So if the above roles don't appeal to you, feel free drop us your CV at [careers@beamconnectivity.com](mailto:careers@beamconnectivity.com) and tell us what you can bring to the party.
-
-
-<br />
-- - -
-<br />
-
-<div class="footer-links">
-    <a href="/">Home</a> | <a href="/privacy">Privacy</a> | <a href="https://beamconnectivity.com">Main website</a>
-</div>
-
-<br />
-*© 2021 | Beam Connectivity*

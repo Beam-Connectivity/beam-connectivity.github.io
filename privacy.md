@@ -14,14 +14,4 @@ Hope that is ok with you 🤞🏼.
 
 If you would like us to delete your data sooner, please email [privacy@beamconnectivity.com](mailto://privacy@beamconnectivity.com)
 
-
-<br />
-- - -
-<br />
-
-<div class="footer-links">
-    <a href="/">Home</a> | <a href="/privacy">Privacy</a> | <a href="https://beamconnectivity.com">Main website</a>
-</div>
-
-<br />
-*© 2021 | Beam Connectivity*
+Back to [Home](/)

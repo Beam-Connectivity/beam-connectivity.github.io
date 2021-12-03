@@ -9,6 +9,13 @@ or if all pre-reqs are installed, simply:
 2. Browse to http://localhost:4000
 
 
+# Troubleshooting
+
+Sometimes you may get the following when starting serve: `Error:  no acceptor (port is in use or requires root privileges)`. This means that jekyll process is already running, using the port. Kill it with:
+
+`ps aux | grep jekyll | awk '{print $2}' | xargs kill -9`
+
+
 # Improvements
 
 1. There is a lot of duplication in header/footer of job spec pages - would be nice to template this
