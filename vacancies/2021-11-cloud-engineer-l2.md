@@ -72,8 +72,12 @@ Please email us at [careers@beamconnectivity.com](mailto://careers@beamconnectiv
 Read about the [Interview process](/#interview-process), the [perks](/#beam-team-perks) and [what's great about working at Beam](/#life-at-beam).
 
 <br />
-- - - 
-Back to [Home](/)
+- - -
+<br />
+
+<div class="footer-links">
+    <a href="/">Home</a> | <a href="/privacy">Privacy</a> | <a href="https://beamconnectivity.com">Main website</a>
+</div>
 
 <br />
 *© 2021 | Beam Connectivity*

@@ -1,17 +1,17 @@
 ---
-title: "Role: Embedded Software Engineer"
+title: "Role: Project Manager / Scrum Master"
 category: Roles
 order: 1
 ---
 
-<h1>Embedded Software Engineer</h1>
+<h1>Project Manager / Scrum Master</h1>
 
-📝 **Reference** | 2021-11-embedded-engineer-l2-02
+📝 **Reference** | 2021-11-tehnical-project-manager
 📅 **Start date** | Immediate
 📍 **Location** | Remote, with occasional company meetings in Bristol (maximum 1x a month)
 ⏲ **Term** | Full time, Permanent
 👛 **Salary** | Competitive
-📧 **Contact** | Email [careers@beamconnectivity.com](mailto://careers@beamconnectivity.com?subject=Role 2021-12-embedded-engineer-l2)
+📧 **Contact** | Email [careers@beamconnectivity.com](mailto://careers@beamconnectivity.com?subject=Role 2021-11-tehnical-project-manager)
 
 
 ### About Beam Connectivity
@@ -32,44 +32,34 @@ We use modern software delivery practices to build clean, resilient software. At
 
 ### The Role
 
-As an embedded software engineer you will be focused on building our TCU (Telematics Control Unit) software, which runs on our hardware in clients' vehicles. We have two hardware platforms for different scenarios: 1) prototyping with Raspberry Pis and a variety of peripherals, and 2) our bespoke, automotive-grade electronics. You would be expected to work across both and so be comfortable writing software to target either. 
+As a Software Engineer you will be focused on building out our cloud platform, which runs on AWS and is the lynchpin between clients' vehicles, back-office IT systems, and end-user mobile apps. The cloud platform is responsible for ingesting data, streaming and batch analytics, and exposing APIs to allow the mobile apps to talk to the vehicles. You will be working with cutting-edge technology and we can guarantee the work will be challenging, exciting and satisfying.
 
-We are looking for someone who takes pride in writing elegant software; someone who sees code as craft. Strong collaboration between disciplines is a feature of our agile practice, so being able to articulate technical detail at the right level for the audience is important. As you would be working with cutting-edge technology and we can guarantee the work will be challenging, exciting and satisfying.
+We are looking for someone who takes pride in writing software; someone who sees code as craft. Strong collaboration between disciplines is a feature of our agile practice, so being able to articulate technical detail at the right level for the audience is important. 
 
 #### Main responsibilities
 
-While the team are always on hand to support, your main resposibilities day-to-day would revolve around these:
-
-1. Software prototyping on new hardware platforms.
-1. Design, implemention and test of embedded software.
-1. Integration of software and tests into our CI system.
-1. Working with the hardware team on board bring-up - managing firmware and debug software.
-1. Working as part of the software team to integrate and debug the end-to-end system: Hardware, cloud and mobile apps.
+1. Work as part of the team, reviewing each others' designs and code.
+1. Develop web apps to manage the CVaaS platform – both client facing and backend.
+1. Design web UI/UX, sometimes independently and sometimes with external design team input.
+1. Develop web APIs for internal and third party integrations.
+1. Integrate software and tests into our CI-CD system
+1. Work as part of the software team to integrate and debug the end-to-end system: Hardware, cloud and mobile apps
 
 #### Core skills
 
 These are the primary skills that the job entails.
 
-1. Investigative and innovative - able to solve problems, make technical leaps and find solutions.
-1. Strong C programming and unit testing.
-1. Cross-platform software compilation and debugging.
-1. Embedded Linux - kernel build, bash scripting, device trees, debugging.
-1. Serial Protocols – SPI, I<sup>2</sup>C, UART.
+1. blah
 
 #### Nice to have skills
 
 These are disciplines that we are already strong in because they're part of our core stack. Any experience you have with these would be a bonus, but is by no means a requirement.
 
-1. Python skills.
-1. Neworking and/or wireless comms - cellular, Wi-Fi, Bluetooth.
-1. CAN devices or other bus protocols.
-1. Hardware prototyping experience with commodity components - e.g. Raspberry Pi, Arduino.
-1. DevOps mindset - knowing how and when to automate development and operational tasks.
-
+1. blah
 
 ### Get in touch
 
-Please email us at [careers@beamconnectivity.com](mailto://careers@beamconnectivity.com?subject=Role 2021-11-embedded-engineer-l2) if you would like to learn more or apply for the role.
+Please email us at [careers@beamconnectivity.com](mailto://careers@beamconnectivity.com?subject=Role 2021-11-tehnical-project-manager) if you would like to learn more or apply for the role.
 
 Read about the [Interview process](/#interview-process), the [perks](/#beam-team-perks) and [what's great about working at Beam](/#life-at-beam).
 

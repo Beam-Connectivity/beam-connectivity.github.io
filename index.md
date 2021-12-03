@@ -104,4 +104,10 @@ However, we are always hunting for hungry, talented people. So if the above role
 <br />
 - - -
 <br />
+
+<div class="footer-links">
+    <a href="/">Home</a> | <a href="/privacy">Privacy</a> | <a href="https://beamconnectivity.com">Main website</a>
+</div>
+
+<br />
 *© 2021 | Beam Connectivity*
