@@ -42,11 +42,11 @@ We use the right tool for the job but do try to converge around a few, solid but
 
 * 🚗 **Embedded**: Linux, C, bash, python, SQLite
 
-* ⛅ **Cloud**: MQTT, AWS serverless, Python, Javascript/Typescript, Presto DB, Apache Spark, CloudFlare
+* ⛅ **Cloud**: AWS serverless, Docker, MQTT, python, Javascript/Typescript, Presto DB, Apache Spark, CloudFlare
 
-* 📱 **Mobile**: Swift, Kotlin, Fastlane, Firebase
+* 📱 **Mobile**: Swift, Kotlin, Fastlane, Firebase, Figma
 
-* 🧰 **DevOps**: Docker, Azure DevOps, bash, python
+* 🧰 **DevOps**: Docker, Azure DevOps, bash, Python
 
 Our CI-CD infrastructure is highly automated and runs on Azure DevOps. We are rightfully proud of how smoothly and consistently we can deliver quality software. Our delivery process gives us clear traceability from tickets, through code, tests and PRs, and out to automated release pipelines.
 
