@@ -10,7 +10,7 @@ We are building a platform is called CVaaS - Connected Vehicle as a Service - an
 2. **Highly Secure** - Cyber security has never been more important and all indications are that the future will be even more hostile.
 3. **Highly Flexible** - Much like our team, our platform majors on rapid integration into a variety of vehicles and backoffice IT systems.
 
-We supply the complete, end-to-end platform so we can optimse the performance and security of the whole system rather than being locked into an API that we can't change. If you want to understand more about our platform, check out our main website at [https://beamconnectivity.com](https://beamconnectivity.com). 
+We supply the complete, end-to-end platform so we can optimise the performance and security of the whole system rather than being locked into an API that we can't change. If you want to understand more about our platform, check out our main website at [https://beamconnectivity.com](https://beamconnectivity.com). 
 
 This site is all about our Beam Team developers - our high performance, cross-functional team of hardware, embedded, cloud and mobile engineers.
 
