@@ -17,9 +17,11 @@ This site is all about our Beam Team developers - our high performance, cross-fu
 
 # Life at Beam <a name="life-at-beam"></a>
 
-Founded in early 2020, we are sustainably growing the team to match our new customer commitments.
+Founded in early 2020 BC (*before covid*), we are sustainably growing the team to match our new customer commitments. So, what makes Beam special?
 
 🚗 We work at the cutting edge of automotive & mobility technology - Connected cars, EVs, eBikes, cyber security
+
+🌍 We try to do our bit to [make the world a better place](https://www.youtube.com/watch?v=B8C5sjjhsso) by working with clients supporting sustainable mobility
 
 👩🏼‍💻 We use modern tech and dev practices that improve our lives as developers
 
@@ -27,30 +29,32 @@ Founded in early 2020, we are sustainably growing the team to match our new cust
 
 👐🏼 We love OSS, both using and contributing 
 
-👯‍♀️ The whole team is super-smart and friendly
+👯‍♀️ The whole team is super-smart and friendly, yet humble
 
- 📍 We are a remote and flexible team - fitting around life commitments is important to us - whether that's children, hobbies or body-clocks!
+ 📍 We are a remote and flexible team - fitting around life commitments is important to us, whether that's children, hobbies or body-clocks
 
 ✂ As a small company, there is no bureaucracy and decisions are made by the people closest to the problem
+
+🌴 We have plans to scale slow and steady over the next year, so early engineers have the opportunity to grow and lead when the time is right 
 
 🥳 We build great products and have fun doing it
 
 
 # We ❤ modern tech <a name="modern-tech"></a>
 
-We use the right tool for the job but do try to converge around a few, solid but flexible technologies ([and here's why](https://mcfunley.com/choose-boring-technology)). These make up the main _spine_ of the platform:
+We use the right tool for the job but do try to converge around a few, solid but flexible technologies ([and here's why](https://mcfunley.com/choose-boring-technology)). These make up the main spine of the platform:
 
 * 🚗 **Embedded**: Linux, C, bash, python, SQLite
 
-* ⛅ **Cloud**: AWS serverless, python, Javascript/Typescript, Docker, MQTT, Kibana, Presto DB, Apache Spark, CloudFlare
+* ⛅ **Cloud**: AWS serverless, python, Javascript/Typescript, Docker, Kibana, Presto DB, Apache Spark, CloudFlare
 
 * 📱 **Mobile**: Swift, Kotlin, Fastlane, Firebase, Figma
 
 * 🧰 **DevOps**: Docker, Azure DevOps, bash, Python
 
-Our CI-CD infrastructure is highly automated and runs on Azure DevOps. We are rightfully proud of how smoothly and consistently we can deliver quality software. Our delivery process gives us clear traceability from tickets, through code, tests and PRs, and out to automated release pipelines.
+Our CI-CD infrastructure is highly automated and runs on Azure DevOps. We are rightfully proud of how smoothly and consistently we can deliver quality software. Our delivery process gives us clear traceability from tickets, through design, code, tests and PRs, and out to automated release pipelines.
 
-We also do a lot of hardware engineering, both prototyping with Raspberry Pis and developing our own, bespoke, automotive-grade electronics. 
+We also do a lot of hardware engineering, both prototyping with Raspberry Pis and developing our own bespoke, automotive-grade electronics. 
 
 
 # Interview process <a name="interview-process"></a>
