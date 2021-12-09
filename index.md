@@ -42,7 +42,7 @@ We use the right tool for the job but do try to converge around a few, solid but
 
 * 🚗 **Embedded**: Linux, C, bash, python, SQLite
 
-* ⛅ **Cloud**: AWS serverless, Docker, MQTT, python, Javascript/Typescript, Presto DB, Apache Spark, CloudFlare
+* ⛅ **Cloud**: AWS serverless, python, Javascript/Typescript, Docker, MQTT, Kibana, Presto DB, Apache Spark, CloudFlare
 
 * 📱 **Mobile**: Swift, Kotlin, Fastlane, Firebase, Figma
 
