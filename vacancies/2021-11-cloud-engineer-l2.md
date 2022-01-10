@@ -1,12 +1,12 @@
 ---
-title: "Role: Cloud Software Engineer"
+title: "Role: Cloud Software Developer / Full-Stack Developer"
 category: Roles
 order: 1
 ---
 
-<h1>Cloud Software Engineer</h1>
+<h1>Cloud Software Developer / Full-Stack Developer</h1>
 
-📝 **Reference** | 2021-11-cloud-engineer-l2
+📝 **Reference** | 2021-11-cloud-developer-l2
 📅 **Start date** | Immediate
 📍 **Location** | Remote, with occasional company meetings in Bristol (maximum 1x a month)
 ⏲ **Term** | Full time, Permanent
@@ -67,7 +67,7 @@ These are disciplines that we are already strong in because they're part of our 
 
 ### Get in touch
 
-Please email us at [careers@beamconnectivity.com](mailto://careers@beamconnectivity.com?subject=Role 2021-11-cloud-engineer-l2) if you would like to learn more or apply for the role.
+Please email us at [careers@beamconnectivity.com](mailto://careers@beamconnectivity.com?subject=Role 2021-11-cloud-developer-l2) if you would like to learn more or apply for the role.
 
 Read about the [Interview process](/#interview-process), the [perks](/#beam-team-perks) and [what's great about working at Beam](/#life-at-beam).
 

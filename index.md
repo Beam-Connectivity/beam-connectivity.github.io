@@ -94,7 +94,7 @@ These are some specific vacancies that we have:
 
 🚀 ~~Senior Cloud Software Engineer L3 - Remote~~ - Filled
 
-🚀 [**Cloud Software Engineer** - UK, Remote](/vacancies/2021-11-cloud-engineer-l2) 
+🚀 [**Cloud Software Developer / Full-Stack Developer** - UK, Remote](/vacancies/2021-11-cloud-engineer-l2) 
 
 🚀 [**Embedded Software Engineer** - UK, Remote](/vacancies/2021-11-embedded-engineer-l2-01)
 
