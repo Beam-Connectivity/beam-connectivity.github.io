@@ -39,8 +39,8 @@ We are looking for someone who takes pride in writing software; someone who sees
 #### Main responsibilities
 
 1. Work as part of the team, reviewing each others' designs and code.
-1. Develop web apps to manage the CVaaS platform – both client facing and backend.
-1. Design web UI/UX, sometimes independently and sometimes with external design team input.
+1. Develop web apps to manage the CVaaS platform and support data analysis – forms, tables, charts, graphs.
+1. Design web UI/UX, sometimes independently and sometimes with external design team input. We use Figma for wireframes and UX design.
 1. Develop web APIs for internal and third party integrations.
 1. Integrate software and tests into our CI-CD system
 1. Work as part of the software team to integrate and debug the end-to-end system: Hardware, cloud and mobile apps
@@ -51,7 +51,7 @@ These are the primary skills that the job entails.
 
 1. Investigative and innovative - able to solve problems, make technical leaps and find solutions.
 1. Strong web app development skills in your framework of choice.
-1. Strong in one of Python, Javascript or Typescript, with basic understanding of the others.
+1. Strong in Javascript or Typescript.
 1. REST or GraphQL API implementation 
 1. Test frameworks for your language of choice, to support unit, integration and UI tests (where appropriate)
 
@@ -60,10 +60,11 @@ These are the primary skills that the job entails.
 These are disciplines that we are already strong in because they're part of our core stack. Any experience you have with these would be a bonus, but is by no means a requirement.
 
 1. Deploying to AWS serverless stack 
+1. Intermediate level Python skills
 1. Experience with SQL and NoSQL data persistence
 1. Building and running Docker containers
 1. DevOps mindset - knowing how to automate development and operational tasks
-1. Big data: Apache Spark, Apache Hive
+1. Big data or data science background: Apache Spark, Apache Hive
 
 ### Get in touch
 
