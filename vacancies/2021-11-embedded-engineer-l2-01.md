@@ -16,7 +16,7 @@ order: 1
 
 ### About Beam Connectivity
 
-Beam Connectivity are a startup in the automotive IoT space. We work with established and up-and-coming vehicle manufacturers to deliver best-in-class connected vehicle experiences. After a successful first 18 months we have now secured new projects and are expanding our software team. Join us at Beam - as an early team member you will play a key role in our growth, while we take a key role in yours.
+Beam Connectivity are a startup in the automotive IoT space. We work with established and up-and-coming vehicle manufacturers to deliver best-in-class connected vehicle experiences. After a successful first 2 years we have now secured new projects and are expanding our software team. Join us at Beam - as an early team member you will play a key role in our growth, while we take a key role in yours.
 
 #### Improving the world of connected vehicles
 
