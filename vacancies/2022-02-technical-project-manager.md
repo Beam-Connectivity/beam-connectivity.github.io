@@ -4,7 +4,7 @@ category: Roles
 order: 1
 ---
 
-<h1>Project Manager / Scrum Master</h1>
+<h1>Technical Project Manager / Scrum Master</h1>
 
 📝 **Reference** | 2022-02-tehnical-project-manager
 📅 **Start date** | Immediate
