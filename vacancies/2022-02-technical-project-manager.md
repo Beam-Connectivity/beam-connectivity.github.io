@@ -50,13 +50,12 @@ We can guarantee the work will be challenging, exciting and satisfying.
 
 These are the primary skills that the job entails. 
 
-1. Traditional project management techniques. Monitoring and reporting time, costs, quality.
-2. Agile project delivery management techniques. Working with our software development team and our customers to 
+1. Traditional project management techniques. Monitoring and reporting time, costs, quality
+2. Agile project delivery management techniques using product backlogs and kanban
 3. Deep understanding in our areas of technology and innovation
-4. Desire to exceed expectations in project delivery
-5. Motivated and able to work autonomously
+4. Motivated and able to work autonomously
 
-We realize managing this range of project styles may be unusual and favour potential and ambition over specific experience in a particular delivery methodology. This position will suit a highly-motivated candidate at the start or early in their project management career, with an engineering background or having recently transitioned from a development team.
+We realize managing this range of project styles may be unusual and we favour potential and ambition over specific experience in a particular delivery methodology. This position will suit a highly-motivated candidate early in their project management career, with an engineering background or having recently transitioned from a development team.
 
 #### Nice to have skills
 
