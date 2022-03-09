@@ -96,9 +96,9 @@ These are some specific vacancies that we have:
 
 🚀 ~~Cloud Software Developer / Full-Stack Developer - UK, Remote~~ - Filled
 
-🚀 [**Embedded Software Engineer** - UK, Remote](/vacancies/2021-11-embedded-engineer-l2-01)
+🚀 ~~Embedded Software Engineer - UK, Remote~~ - Filled
 
-🚀 [**Embedded Software Engineer** - UK, Remote](/vacancies/2021-11-embedded-engineer-l2-02)
+🚀 ~~Embedded Software Engineer - UK, Remote~~ - Filled
 
 🚀 [**Technical Project Manager** - UK, Remote](/vacancies/2022-02-technical-project-manager)
 

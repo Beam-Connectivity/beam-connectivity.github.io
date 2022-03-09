@@ -1,5 +1,5 @@
 ---
-title: "Role: Project Manager / Scrum Master"
+title: "Role: Technical Project Manager / Scrum Master"
 category: Roles
 order: 1
 ---
