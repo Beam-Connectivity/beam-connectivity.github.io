@@ -44,13 +44,15 @@ Founded in early 2020 BC (*before covid*), we are sustainably growing the team t
 
 We use the right tool for the job but do try to converge around a few, solid but flexible technologies ([and here's why](https://mcfunley.com/choose-boring-technology)). These make up the main spine of the platform:
 
-* 🚗 **Embedded**: Linux, C, bash, python, SQLite
+* 🚗 **Embedded**: Linux, C, bash, python, SQLite + all kinds of hardware and dev boards!
 
-* ⛅ **Cloud**: AWS serverless, python, Javascript/Typescript, Docker, Kibana, Presto DB, Apache Spark, CloudFlare
+* ⛅ **Cloud Backend**: AWS serverless, python, REST, Docker, Grafana, Presto DB, Apache Spark, CloudFlare
+
+* ⛅ **Frontend**: Typescript, Javascript, React, REST
 
 * 📱 **Mobile**: Swift, Kotlin, Fastlane, Firebase, Figma
 
-* 🧰 **DevOps**: Docker, Azure DevOps, bash, Python
+* 🧰 **DevOps**: Docker, Azure DevOps, CloudFormation, bash, python, OpenAPI spec (Swagger)
 
 Our CI-CD infrastructure is highly automated and runs on Azure DevOps. We are rightfully proud of how smoothly and consistently we can deliver quality software. Our delivery process gives us clear traceability from tickets, through design, code, tests and PRs, and out to automated release pipelines.
 

@@ -51,7 +51,7 @@ These are the primary skills that the job entails.
 
 1. Investigative and innovative - able to solve problems, make technical leaps and find solutions.
 1. Strong web app development skills in your framework of choice.
-1. Strong in Javascript or Typescript.
+1. Strong in Typescript and Javascript (or keen to improve 🤓).
 1. REST or GraphQL API implementation 
 1. Test frameworks for your language of choice, to support unit, integration and UI tests (where appropriate)
 
@@ -60,11 +60,11 @@ These are the primary skills that the job entails.
 These are disciplines that we are already strong in because they're part of our core stack. Any experience you have with these would be a bonus, but is by no means a requirement.
 
 1. Deploying to AWS serverless stack 
-1. Intermediate level Python skills
+1. Python skills
 1. Experience with SQL and NoSQL data persistence
 1. Building and running Docker containers
 1. DevOps mindset - knowing how to automate development and operational tasks
-1. Big data or data science background: Apache Spark, Apache Hive
+1. Big data or data science background: Apache Spark, Apache Hive, machine learning
 
 ### Get in touch
 
