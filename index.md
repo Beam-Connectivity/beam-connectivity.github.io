@@ -102,4 +102,6 @@ These are some specific vacancies that we have:
 
 🚀 [**Technical Project Manager** - UK, Remote](/vacancies/2022-02-technical-project-manager)
 
+🚀 [**Fullstack Engineer** - UK, Remote](/vacancies/2022-03-fullstack-engineer-l2)
+
 However, we are always hunting for hungry, talented people. So if the above roles don't appeal to you, feel free drop us your CV at [careers@beamconnectivity.com](mailto:careers@beamconnectivity.com) and tell us what you can bring to the party.
