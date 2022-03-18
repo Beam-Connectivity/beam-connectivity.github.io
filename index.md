@@ -46,9 +46,9 @@ We use the right tool for the job but do try to converge around a few, solid but
 
 * 🚗 **Embedded**: Linux, C, bash, python, SQLite + all kinds of hardware and dev boards!
 
-* ⛅ **Cloud Backend**: AWS serverless, python, REST, Docker, Grafana, Presto DB, Apache Spark, CloudFlare
+* ☁️ **Cloud Backend**: AWS serverless, python, REST, Docker, Grafana, Presto DB, Apache Spark, CloudFlare
 
-* ⛅ **Frontend**: Typescript, Javascript, React, REST
+* 💻 **Frontend**: Typescript, Javascript, React, REST
 
 * 📱 **Mobile**: Swift, Kotlin, Fastlane, Firebase, Figma
 
