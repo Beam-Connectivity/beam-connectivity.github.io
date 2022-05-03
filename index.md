@@ -17,7 +17,7 @@ This site is all about our Beam Team developers - our high performance, cross-fu
 
 # Life at Beam <a name="life-at-beam"></a>
 
-Founded in early 2020 BC (*before covid*), we are sustainably growing the team to match our new customer commitments. So, what makes Beam special?
+Founded in early 2020, we are sustainably growing the team to match our new customer commitments. So, what makes Beam special?
 
 🚗 We work at the cutting edge of automotive & mobility technology - Connected cars, EVs, eBikes, cyber security
 
@@ -104,6 +104,6 @@ These are some specific vacancies that we have:
 
 🚀 [**Technical Project Manager** - UK, Remote](/vacancies/2022-02-technical-project-manager)
 
-🚀 [**Fullstack Engineer** - UK, Remote](/vacancies/2022-03-fullstack-engineer-l2)
+🚀 [**Full stack Engineer** - UK, Remote](/vacancies/2022-04-fullstack-engineer-l2)
 
 However, we are always hunting for hungry, talented people. So if the above roles don't appeal to you, feel free drop us your CV at [careers@beamconnectivity.com](mailto:careers@beamconnectivity.com) and tell us what you can bring to the party.
