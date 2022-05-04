@@ -39,7 +39,7 @@ We are looking for someone who takes pride in writing software; someone who sees
 #### Main responsibilities
 
 1. Work as part of the team, reviewing each others' designs and code.
-1. Develop web apps to manage the CVaaS platform and support data analysis – forms, tables, charts, graphs.
+1. Develop web apps to manage the platform and provide data analysis features – lots of tables, charts, graphs.
 1. Design web UI/UX, sometimes independently and sometimes with external design team input. We use Figma for wireframes and UX design.
 1. Develop web APIs for internal and third party integrations.
 1. Integrate software and tests into our CI-CD system
