@@ -102,7 +102,7 @@ These are some specific vacancies that we have:
 
 🚀 ~~Embedded Software Engineer - UK, Remote~~ - Filled
 
-🚀 [**Technical Project Manager** - UK, Remote](/vacancies/2022-02-technical-project-manager)
+🚀 ~~Technical Project Manager** - UK, Remote~~ - Filled
 
 🚀 [**Full Stack Developer** - UK, Remote](/vacancies/2022-04-fullstack-developer-l2)
 
