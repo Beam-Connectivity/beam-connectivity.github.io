@@ -48,11 +48,11 @@ We use the right tool for the job but do try to converge around a few, solid but
 
 * ☁️ **Cloud Backend**: AWS serverless, python, REST, Docker, Grafana, Presto DB, Apache Spark, CloudFlare
 
-* 💻 **Frontend**: Typescript, Javascript, React, REST
+* 💻 **Frontend**: Typescript, Javascript, React, REST, Cypress
 
-* 📱 **Mobile**: Swift, Kotlin, Fastlane, Firebase, Figma
+* 📱 **Mobile**: Swift, Kotlin, Fastlane, Firebase, Figma, Android Auto & Carplay
 
-* 🧰 **DevOps**: Docker, Azure DevOps, CloudFormation, bash, python, OpenAPI spec (Swagger)
+* 🧰 **DevOps**: Docker, Azure DevOps, CloudFormation, bash, python, OpenAPI spec (Swagger), VS Code
 
 Our CI-CD infrastructure is highly automated and runs on Azure DevOps. We are rightfully proud of how smoothly and consistently we can deliver quality software. Our delivery process gives us clear traceability from tickets, through design, code, tests and PRs, and out to automated release pipelines.
 
@@ -102,8 +102,8 @@ These are some specific vacancies that we have:
 
 🚀 ~~Embedded Software Engineer - UK, Remote~~ - Filled
 
-🚀 ~~Technical Project Manager** - UK, Remote~~ - Filled
+🚀 ~~Technical Project Manager - UK, Remote~~ - Filled
 
-🚀 [**Full Stack Developer** - UK, Remote](/vacancies/2022-04-fullstack-developer-l2)
+🚀 ~~Full Stack Developer - UK, Remote~~ - Filled
 
 However, we are always hunting for hungry, talented people. So if the above roles don't appeal to you, feel free drop us your CV at [careers@beamconnectivity.com](mailto:careers@beamconnectivity.com) and tell us what you can bring to the party.
