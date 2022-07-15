@@ -6,7 +6,7 @@ layout: default
 
 CVaaS is a B2B connected vehicle platform, used by vehicle manufacturers.
 
-If you would like to talk to us generally about data privacy, please email [privacy@beamconnectivity.com](mailto://privacy@beamconnectivity.com).
+We take our obligations under GDPR seriously, but if you would like to talk to us generally about data privacy, please email [privacy@beamconnectivity.com](mailto://privacy@beamconnectivity.com).
 
 ## Mobile Apps - iOS and Android
 
@@ -20,6 +20,12 @@ We collect the following data:
 
 If you would like us to close your account and delete your user data, please email [privacy@beamconnectivity.com](mailto://privacy@beamconnectivity.com)
 
+Third party data processors:
+
+* ☁️ Google Firebase - Crash reports and app telemetry
+* ☁️ Amazon Web Services - providing user authentication services and hosting for the CVaaS cloud databases
+
+
 ## Cloud Platform
 
 To maximise data privacy of our CVaaS cloud platform, we commit to:
@@ -29,6 +35,7 @@ To maximise data privacy of our CVaaS cloud platform, we commit to:
 * 🔒 Follow industry best practices for data collection and storage.
 * 🔒 Conduct AWS Well Architected reviews to ensure we consider all aspects of security and privacy.
 * 🔒 Welcome scrutiny from privacy and security teams.
+
 
 # Cyber Security 
 
