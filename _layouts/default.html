@@ -45,7 +45,7 @@
         <p class="copyright">{{ site.title | default: site.github.repository_name }} maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
         <p>🏚️ <a href="/">Home</a> | 🔒 <a href="/privacy">Privacy</a> | 🔐 <a href="/cvaas-privacy">CVaaS Privacy</a> | 🐓 <a href="https://twitter.com/we_are_beam">Twitter</a> | 🌍 <a href="https://beamconnectivity.com">Main website</a></p>
-        <p>© 2021 | Beam Connectivity</p>
+        <p>© {{ site.time | date: '%Y' }} | Beam Connectivity Limited</p>
       </footer>
     </div>
   </body>
