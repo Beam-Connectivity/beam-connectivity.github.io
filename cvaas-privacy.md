@@ -6,24 +6,23 @@ layout: default
 
 CVaaS is a B2B connected vehicle platform, used by vehicle manufacturers.
 
-We take our obligations under GDPR seriously, but if you would like to talk to us generally about data privacy, please email [privacy@beamconnectivity.com](mailto://privacy@beamconnectivity.com).
+We take our obligations as a Data Processor under GDPR seriously, but if you would like to talk to us generally about data privacy, please email [privacy@beamconnectivity.com](mailto://privacy@beamconnectivity.com).
 
 ## Mobile Apps - iOS and Android
 
-At Beam we use Google Play and Apple TestFlight to privately distribute and test our mobile apps.
-
-We collect the following data:
+At Beam we use Google Play and Apple TestFlight to privately distribute and test our mobile apps. We collect the following data:
 
 * 🔒 Location data - To provide maps and calculate your nearest EV charging location
 * 🔒 Device data such as device id, handset and OS version - To understand user experience and app performance to improve the app.
 * 🔒 Crash data - To diagnose user issues and improve the app.
 
-If you would like us to close your account and delete your user data, please email [privacy@beamconnectivity.com](mailto://privacy@beamconnectivity.com)
-
-Third party data processors:
+Third party Data Processors:
 
 * ☁️ Google Firebase - Crash reports and app telemetry
 * ☁️ Amazon Web Services - providing user authentication services and hosting for the CVaaS cloud databases
+* ☁️ Stripe - Payments for EV charging
+
+If you would like us to close your account and delete your user data, please email [privacy@beamconnectivity.com](mailto://privacy@beamconnectivity.com)
 
 
 ## Cloud Platform
