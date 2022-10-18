@@ -4,7 +4,7 @@ layout: default
 
 We are the Beam Connectivity developers - Hello 👋🏼
 
-We are building a platform is called CVaaS - Connected Vehicle as a Service - and it's made up of hardware and software that runs on a vehicle, a cloud platform on AWS, and some mobile apps. Our platform architecture (and org architecture!) is focussed on three pillars:
+We are building a platform is called CVaaS - Connected Vehicle as a Service - and it's made up of: 1) hardware and software that runs on a vehicle, 2) a cloud platform on AWS, and 3) some mobile apps. Our platform architecture (and org architecture!) is focussed on three pillars:
 
 1. **Highly Performant** - Minimising the latency between vehicle ↔ cloud ↔ app, which in turn supercharges the User Experience.
 2. **Highly Secure** - Cyber security has never been more important and all indications are that the future will be even more hostile.
@@ -35,7 +35,7 @@ Founded in early 2020, we are sustainably growing the team to match our new cust
 
 ✂ As a small company, there is no bureaucracy and decisions are made by the people closest to the problem
 
-🌴 We have plans to scale slow and steady over the next year, so early engineers have the opportunity to grow and lead when the time is right 
+🌴 We have plans to steadily scale over the next year, so early engineers have the opportunity to grow and lead when the time is right 
 
 🥳 We build great products and have fun doing it
 
@@ -44,11 +44,11 @@ Founded in early 2020, we are sustainably growing the team to match our new cust
 
 We use the right tool for the job but do try to converge around a few, solid but flexible technologies ([and here's why](https://mcfunley.com/choose-boring-technology)). These make up the main spine of the platform:
 
-* 🚗 **Embedded**: Linux, C, bash, python, SQLite + all kinds of hardware and dev boards!
+* 🚗 **Embedded**: Linux, FreeRTOS, C, bash, python, SQLite + all kinds of hardware and dev boards!
 
-* ☁️ **Cloud Backend**: AWS serverless, python, REST, Docker, Grafana, Presto DB, Apache Spark, CloudFlare
+* ☁️ **Cloud Backend**: AWS serverless, python, REST, Grafana, Presto DB, Apache Spark, CloudFlare
 
-* 💻 **Frontend**: Typescript, Javascript, React, REST, Cypress
+* 💻 **Frontend**: Typescript, React, REST, Cypress
 
 * 📱 **Mobile**: Swift, Kotlin, Fastlane, Firebase, Figma, Android Auto & Carplay
 
@@ -61,9 +61,11 @@ We also do a lot of hardware engineering, both prototyping with Raspberry Pis an
 
 # Interview process <a name="interview-process"></a>
 
-As a small company, every hire is important to our growth. We are remote-first using modern, digital tools, so the ability to communicate clearly is an essential skill that we all need. As an engineer we need you to be able to articulate problems you're having, explain how things work, and influence other members of the Beam Team when you have a killer idea. We believe that interviews are a two-way process - it is vital we understand what we each are looking for. 
+As a small company, every hire is important to our growth. We are remote-first using modern, digital tools, so the ability to communicate clearly is an essential skill that we all need. As an engineer we need you to be able to explain how things work, articulate problems you're having, and influence other members of the Beam Team when you have that killer idea. We believe that interviews are a two-way process - it is vital we understand what we each are looking for. 
 
-We recruit for potential and to maximise fit with the team, rather than demanding the right buzzwords on your CV. We don't expect you to have exercised all the skills we need (*else how does anyone get a break?*) but a successful candidate should be able to convince us that they can do the job. This is the interview process: 
+We recruit for potential and to maximise fit with the team, rather than demanding the right buzzwords on your CV. We don't expect you to have exercised all the skills we need (*else how does anyone get a break?*) but a successful candidate should be able to convince us that they can do the job. 
+
+This is the interview process: 
 
 1. **Background reading** - We will review your CV and any other information you provide such as your github account, LinkedIn profile and any community projects you've worked on in the public domain. We ask that you review our [website](https://beamconnectivity.com), [twitter](https://twitter.com/we_are_beam) and [LinkedIn](https://www.linkedin.com/company/beam-connectivity) pages. The aim here is to each get an idea of each other's background.
 2. **Initial meeting** - This is an opportunity for you to understand who Beam Connectivity are and for us to learn more about you. This stage is less about technical knowledge and more about where you've been and where you want to go. *30 minutes - 1 hour*
@@ -73,7 +75,7 @@ We recruit for potential and to maximise fit with the team, rather than demandin
 
 # Beam Team Perks <a name="beam-team-perks"></a>
 
-We understand that the package is about more than just the salary and company culture, so we want to be clear about what you will get as a Beam staffer:
+We understand that the package is about more than just the salary, so we want to be clear about what you will get as a Beam staffer:
 
 * 🌍 Highly flexible, remote working
 
@@ -106,4 +108,10 @@ These are some specific vacancies that we have:
 
 🚀 ~~Full Stack Developer - UK, Remote~~ - Filled
 
+🚀 [**Embedded Software Engineer** - UK, Remote](/vacancies/2022-10-embedded-engineer-l2)
+
+
 However, we are always hunting for hungry, talented people. So if the above roles don't appeal to you, feel free drop us your CV at [careers@beamconnectivity.com](mailto:careers@beamconnectivity.com) and tell us what you can bring to the party.
+
+
+🤞🏼 Please can we have no approaches from recruiters - we will get in touch if we need you.
