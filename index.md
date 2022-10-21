@@ -110,6 +110,8 @@ These are some specific vacancies that we have:
 
 🚀 [**Embedded Software Engineer** - UK, Remote](/vacancies/2022-10-embedded-engineer-l2)
 
+🚀 [**Account Manager** - UK, Remote](/vacancies/2022-10-account-manager)
+
 
 However, we are always hunting for hungry, talented people. So if the above roles don't appeal to you, feel free drop us your CV at [careers@beamconnectivity.com](mailto:careers@beamconnectivity.com) and tell us what you can bring to the party.
 
