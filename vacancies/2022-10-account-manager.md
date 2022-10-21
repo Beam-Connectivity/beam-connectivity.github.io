@@ -17,7 +17,7 @@ order: 1
 
 Pioneers in better Connected Vehicles: Beam Connectivity is a startup in the mobility space. We work with established and up-and-coming vehicle manufacturers to deliver best-in-class connected vehicle experiences in cars, buses, e-scooters and e-bikes.
 
-Founded in January 2020, we have built a superb engineering team and deployed our connected vehicle platform to several customers. To support the next phase of our growth we are now building a commercial function to accelerate deployment and hiring an Account Manager.
+Founded in January 2020, we have built a superb engineering team and deployed our connected vehicle platform to several customers. To support the next phase of our growth we are now hiring an Account Manager in our new commercial team. 
 
 #### Improving the world of connected vehicles
 
@@ -29,7 +29,7 @@ Delivering a robust connected solution requires a wide variety of skills. At Bea
 
 We have launched the Connected Vehicle as a Service (CVaaS) platform and deployed it to several lead customers. As Account Manager you be the interface between our product development team and our customers. You should have a deep interest in discussing highly technical concepts while building strong relationships with customers.
 
-In taking one of the first commercial roles at Beam Connectivity, you will play a key role in steering how we approach technology deployment with customers. You will contribute to building a commercial function to work alongside our great engineering team which is already receiving accolades from customers. 
+In taking one of the first commercial roles at Beam Connectivity, you will play a key role in steering how we approach technology deployment with customers. You will contribute to building a commercial team, working alongside our fantastic engineers who are receiving accolades from customers. 
 
 Learn more about us at: [https://beamconnectivity.com](https://beamconnectivity.com)
 
@@ -37,19 +37,17 @@ Learn more about us at: [https://beamconnectivity.com](https://beamconnectivity.
 
 As Account Manager your primary focus will be to build strong relationships with existing customers and ensure our connected vehicle projects are delivered to their requirements. We aim to exceed customer expectations in the way we deliver, as well as in our technology. 
 
-You will work at the interface between our customers and our internal development team, representing both and playing a key role in supporting our growth. There will be a need to understand the details of technical delivery, as well as our commercial agreements.
+You will work at the interface between our customers and our internal development team, representing both and playing a key role in supporting our growth. There will be a need to understand the details of technical delivery, as well as our commercial agreements. You will also play a wider role in understanding the connected vehicle sector, researching key trends, and communicating these to the internal team. 
 
-Within a small team, you will also play a wider role in understanding the connected vehicle sector, researching key trends, and communicating these to the internal team. 
-
-As one of the first team members in our commercial function, you will play a key role in our journey at Beam Connectivity, and we offer the opportunity to build your career with an innovative organisation.
+As one of the first team members in our commercial function, you will play a key role in our journey at Beam Connectivity, and we offer the opportunity to build your career within an innovative and highly-agile organisation.
 
 #### Main responsibilities
 
-While the team are always on hand to support, your main resposibilities day-to-day would revolve around these:
+While the team are always on hand to support, your main responsibilities day-to-day would revolve around these:
 
 1. Customers:
     1. Build and maintain strong relationships with our customers
-    1. Understand key drivers for our customers and their strategic direction, communicating this back to the Beam team
+    1. Understand key drivers for our customers and their strategic direction, communicating these back to the Beam team
     1. Work with product team to understand new features and communicate these to customers
 1. Delivery:
     1. Ensure projects are delivered to customer requirements and timelines, exceeding customer expectations

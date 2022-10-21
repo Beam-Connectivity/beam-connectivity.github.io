@@ -2,9 +2,9 @@
 layout: default
 ---
 
-We are the Beam Connectivity developers - Hello 👋🏼
+We are Beam Connectivity - Hello 👋🏼
 
-We are building a platform is called CVaaS - Connected Vehicle as a Service - and it's made up of: 1) hardware and software that runs on a vehicle, 2) a cloud platform on AWS, and 3) some mobile apps. Our platform architecture (and org architecture!) is focussed on three pillars:
+We build a platform is called CVaaS - Connected Vehicle as a Service - and it's made up of: 1) hardware and software that runs on a vehicle, 2) a cloud platform on AWS, and 3) some mobile apps. Our platform architecture (and org architecture!) is focussed on three pillars:
 
 1. **Highly Performant** - Minimising the latency between vehicle ↔ cloud ↔ app, which in turn supercharges the User Experience.
 2. **Highly Secure** - Cyber security has never been more important and all indications are that the future will be even more hostile.
@@ -19,7 +19,7 @@ This site is all about our Beam Team developers - our high performance, cross-fu
 
 Founded in early 2020, we are sustainably growing the team to match our new customer commitments. So, what makes Beam special?
 
-🚗 We work at the cutting edge of automotive & mobility technology - Connected cars, EVs, eBikes, cyber security
+🚗 We work at the cutting edge of automotive & mobility technology - Connected cars, EVs, e-bikes, e-scooters, cyber security
 
 🌍 We try to do our bit to [make the world a better place](https://www.youtube.com/watch?v=B8C5sjjhsso) by working with clients supporting sustainable mobility
 
@@ -27,7 +27,7 @@ Founded in early 2020, we are sustainably growing the team to match our new cust
 
 👨🏼‍🏫 We are digital by default and always looking to improve *how* we work
 
-👐🏼 We love OSS, both using and contributing 
+👐🏼 We love open source software, both using and contributing to it
 
 👯‍♀️ The whole team is super-smart and friendly, yet humble
 
@@ -35,7 +35,7 @@ Founded in early 2020, we are sustainably growing the team to match our new cust
 
 ✂ As a small company, there is no bureaucracy and decisions are made by the people closest to the problem
 
-🌴 We have plans to steadily scale over the next year, so early engineers have the opportunity to grow and lead when the time is right 
+🌴 We have plans to steadily scale over the few years, so early hires have the opportunity to grow and lead when the time is right 
 
 🥳 We build great products and have fun doing it
 
@@ -67,10 +67,12 @@ We recruit for potential and to maximise fit with the team, rather than demandin
 
 This is the interview process: 
 
-1. **Background reading** - We will review your CV and any other information you provide such as your github account, LinkedIn profile and any community projects you've worked on in the public domain. We ask that you review our [website](https://beamconnectivity.com), [twitter](https://twitter.com/we_are_beam) and [LinkedIn](https://www.linkedin.com/company/beam-connectivity) pages. The aim here is to each get an idea of each other's background.
-2. **Initial meeting** - This is an opportunity for you to understand who Beam Connectivity are and for us to learn more about you. This stage is less about technical knowledge and more about where you've been and where you want to go. *30 minutes - 1 hour*
-3. **Technical interview** - Now that we know a bit about each other, we will work through some of the more technical aspects of the role. We will typically ask you to talk through a project that you've recently worked on and we might ask you to whiteboard out the inner workings and ask questions about how you debug issues - that kind of thing. We promise not to ask you any brain teasers or trick questions, and we won’t make you write code in front of us. *1 - 2 hours*
-4. **Final interview** - An opportunity to meet a couple of other people in Beam Connectivity, so you can ask questions and get to know more about what it's like being part of the team. *30 minutes - 1 hour*
+1. **Background reading** - We will review your CV and any other information you provide such as your github account, LinkedIn profile and any community projects you've worked on. We ask that you review our [website](https://beamconnectivity.com), [twitter](https://twitter.com/we_are_beam) and [LinkedIn](https://www.linkedin.com/company/beam-connectivity) pages. The aim here is to each get an idea of each other's background.
+1. **Initial meeting** - This is an opportunity for you to understand who Beam Connectivity are and for us to learn more about you. This stage is less about technical knowledge and more about where you've been and where you want to go. *30 minutes - 1 hour*
+1. **Technical interview** - Now that we know a bit about each other, we will work through some of the more technical aspects of the role. *1 - 2 hours*
+    1. **Engineering roles** - We will typically ask you to talk through a project that you've recently worked on and we might ask you to whiteboard out the inner workings and ask questions about how you debug issues - that kind of thing. We promise not to ask you any brain teasers or trick questions, and we won’t make you write code in front of us. 
+    1. **Non-engineering roles** - We will walk through some scenarios and ask for approaches or frameworks that you might apply to a given challenge, which will draw on your experiences and intuition.
+1. **Final interview** - An opportunity to meet a couple of other people in Beam Connectivity, so you can ask questions and get to know more about what it's like being part of the team. *30 minutes - 1 hour*
 
 
 # Beam Team Perks <a name="beam-team-perks"></a>
