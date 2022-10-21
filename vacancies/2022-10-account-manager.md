@@ -10,7 +10,7 @@ order: 1
 📅 **Start date** | Immediate
 📍 **Location** | Remote, with occasional company meetings
 ⏲ **Term** | Full time, Permanent
-👛 **Salary** | £30,000 - £40,000, dependent on experience
+👛 **Salary** | £30,000 - £50,000, dependent on experience
 📧 **Contact** | Email [careers@beamconnectivity.com](mailto://careers@beamconnectivity.com?subject=Role 2022-10-account-manager)
 
 ### About Beam Connectivity
