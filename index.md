@@ -10,7 +10,7 @@ We build a platform is called CVaaS - Connected Vehicle as a Service - and it's 
 2. **Highly Secure** - Cyber security has never been more important and all indications are that the future will be even more hostile.
 3. **Highly Flexible** - Much like our team, our platform majors on rapid integration into a variety of vehicles and backoffice IT systems.
 
-We supply the complete, end-to-end platform so we can optimise the performance and security of the whole system rather than being locked into an API that we can't change. If you want to understand more about our platform, check out our main website at [https://beamconnectivity.com](https://beamconnectivity.com). 
+We supply the complete, end-to-end platform so we can optimise the performance and security of the whole system rather than being locked into an API that we can't change. If you want to understand more about our platform, check out our main website at [https://beamconnectivity.com](https://beamconnectivity.com). After a successful first 3+ years and the recent [announcement of strategic funding](https://www.automotiveworld.com/news-releases/wae-announces-a-strategic-equity-investment-in-beam-connectivity-limited-supporting-the-commercialisation-of-connected-vehicle-systems/) from WAE Technologies, we have now secured new projects and are slowly expanding our team. 
 
 This site is all about our Beam Team developers - our high performance, cross-functional team of hardware, embedded, cloud and mobile engineers.
 
@@ -79,7 +79,7 @@ This is the interview process:
 
 We understand that the package is about more than just the salary, so we want to be clear about what you will get as a Beam staffer:
 
-* 🌍 Highly flexible, remote working
+* 🌍 Highly flexible, remote working with use of hotdesking facilities near to you
 
 * ⛱ 25 days holiday
 
@@ -98,21 +98,12 @@ We understand that the package is about more than just the salary, so we want to
 
 These are some specific vacancies that we have:
 
-🚀 ~~Senior Cloud Software Engineer L3 - Remote~~ - Filled
+🚀 [**Backend/Cloud Software Engineer** - UK, Remote](/vacancies/2023-05-backend-engineer-l1)
+
+🚀 ~~Account Manager - UK, Remote~~ - Filled
 
 🚀 ~~Cloud Software Developer / Full-Stack Developer - UK, Remote~~ - Filled
 
-🚀 ~~Embedded Software Engineer - UK, Remote~~ - Filled
-
-🚀 ~~Embedded Software Engineer - UK, Remote~~ - Filled
-
-🚀 ~~Technical Project Manager - UK, Remote~~ - Filled
-
-🚀 ~~Full Stack Developer - UK, Remote~~ - Filled
-
-🚀 ~~Embedded Software Engineer - UK, Remote~~ - Filled
-
-🚀 ~~Account Manager - UK, Remote~~ - Filled
 
 
 However, we are always hunting for hungry, talented people. So if the above roles don't appeal to you, feel free drop us your CV at [careers@beamconnectivity.com](mailto:careers@beamconnectivity.com) and tell us what you can bring to the party.
