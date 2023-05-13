@@ -10,7 +10,7 @@ order: 1
 📅 **Start date** | Immediate
 📍 **Location** | Remote, with occasional company meetings in Bristol (maximum 1x a month)
 ⏲ **Term** | Full time, Permanent
-👛 **Salary** | Depending on skills and experience, £35k-£60k
+👛 **Salary** | Depending on skills and experience
 📧 **Contact** | Email [careers@beamconnectivity.com](mailto://careers@beamconnectivity.com?subject=Role 2023-05-backend-engineer-l1)
 
 
@@ -54,7 +54,7 @@ These are the primary skills that the job entails.
 
 1. Be a good communicator - working remotely requires that we are comfortable articulating really complex things
 1. Strong in python - familiarity with production-grade python code, dependency management, linting, testing, etc
-1. Working with AWS serverless stack - deploying resources and troubleshooting (usually IAM policies 😉)
+1. Real-world experience with AWS - deploying resources and troubleshooting (usually IAM policies 😉)
 1. REST APIs - preferably implementation in python, but familiarity with the architecture and principles is more important 
 1. Investigative and innovative - able to solve problems, make technical leaps and find solutions as part of a team or (sometimes) on your own
 
@@ -62,7 +62,8 @@ These are the primary skills that the job entails.
 
 These are disciplines that we are already strong in because they're part of our core stack. Any experience you have with these would be a bonus, but is by no means a requirement.
 
-1. Test frameworks to support automated unit, integration, system and security testing of python
+1. Working with AWS serverless stack - Lambda, DynamoDB, API Gateway, etc
+1. Test tools and frameworks to support automated unit, integration, system and security testing of python
 1. Javascript/Typescript - either for frontend development or backend Node.js functions
 1. Building and running Docker containers
 1. Experience with SQL and NoSQL data persistence
