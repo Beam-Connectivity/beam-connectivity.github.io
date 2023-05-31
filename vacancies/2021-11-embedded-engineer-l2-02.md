@@ -20,7 +20,7 @@ Beam Connectivity are a startup in the automotive IoT space. We work with establ
 
 #### Improving the world of connected vehicles
 
-The experience that users get with today's connected vehicle solutions is pretty poor - painfully slow, clunky and often insecure. We believe that part of the reason for this is the way those solutions are delivered - outsourced to numerous companies, none of which have a deep understanding, nor the responsibility for of the end-to-end system. 
+The experience that users get with today's connected vehicle solutions is pretty poor - painfully slow, clunky and often insecure. We believe that part of the reason for this is the way those solutions are delivered - outsourced to numerous companies, none of which have a deep understanding, nor the responsibility for the end-to-end system. 
 
 Delivering a robust IoT solution requires a wide variety of skills and experience. At Beam, we are a truly multi-disciplinary team, covering all the skills required to deliver a first class connected experience. Our flagship product is the Connected Vehicle as a Service platform, or CVaaS. This platform includes: 1) Electronics hardware deployed in a vehicle, 2) Embedded software, 3) Cloud services, 4) Mobile apps. We do all this under one roof, so you'll be exposed to all this technology at one time or other. This should excite you, not scare you!
 

@@ -19,25 +19,25 @@ This site is all about our Beam Team developers - our high performance, cross-fu
 
 Founded in early 2020, we are sustainably growing the team to match our new customer commitments. So, what makes Beam special?
 
-🚗 We work at the cutting edge of automotive & mobility technology - Connected cars, EVs, e-bikes, e-scooters, cyber security
+* 🚗 We work at the cutting edge of automotive & mobility technology - Connected cars, EVs, e-bikes, e-scooters, cyber security
 
-🌍 We try to do our bit to [make the world a better place](https://www.youtube.com/watch?v=B8C5sjjhsso) by working with clients supporting sustainable mobility
+* 🌍 We try to do our bit to [make the world a better place](https://www.youtube.com/watch?v=B8C5sjjhsso) by working with clients supporting sustainable mobility
 
-👩🏼‍💻 We use modern tech and dev practices that improve our lives as developers
+* 👩🏼‍💻 We use modern tech and dev practices that improve our lives as developers
 
-👨🏼‍🏫 We are digital by default and always looking to improve *how* we work
+* 👨🏼‍🏫 We are digital by default and always looking to improve *how* we work
 
-👐🏼 We love open source software, both using and contributing to it
+* 👐🏼 We love open source software, both using and contributing to it
 
-👯‍♀️ The whole team is super-smart and friendly, yet humble
+* 👯‍♀️ The whole team is super-smart and friendly, yet humble
 
- 📍 We are a remote and flexible team - fitting around life commitments is important to us, whether that's children, hobbies or body-clocks
+*  📍 We are a remote and flexible team - fitting around life commitments is important to us, whether that's children, hobbies or body-clocks
 
-✂ As a small company, there is no bureaucracy and decisions are made by the people closest to the problem
+* ✂ As a small company, there is no bureaucracy and decisions are made by the people closest to the problem
 
-🌴 We have plans to steadily scale over the few years, so early hires have the opportunity to grow and lead when the time is right 
+* 🌴 We have plans to steadily scale over the few years, so early hires have the opportunity to grow and lead when the time is right 
 
-🥳 We build great products and have fun doing it
+* 🥳 We build great products and have fun doing it
 
 
 # We ❤ modern tech <a name="modern-tech"></a>
@@ -46,7 +46,7 @@ We use the right tool for the job but do try to converge around a few, solid but
 
 * 🚗 **Embedded**: Linux, FreeRTOS, C, bash, python, SQLite + all kinds of hardware and dev boards!
 
-* ☁️ **Cloud Backend**: AWS serverless, python, REST, Grafana, Presto DB, Apache Spark, CloudFlare
+* ☁️ **Cloud Backend**: AWS serverless, python, REST, Grafana, Presto DB, Apache Spark, Cloudflare
 
 * 💻 **Frontend**: Typescript, React, REST, Cypress
 
@@ -87,16 +87,18 @@ We understand that the package is about more than just the salary, so we want to
 
 * 🏠 Home office budget to supercharge your workspace
 
-* 💻 M1 MacBook or equivalent laptop
+* 💻 Apple silicon MacBook or equivalent laptop
 
 * 👴🏼 Competitive pension
 
-* 🎉 Genuinely fun company away days (last time we went rally driving!)
+* 🎉 Genuinely fun all company away days
 
 
 # Open positions <a name="vacancies"></a>
 
 These are some specific vacancies that we have:
+
+🚀 [**Sales Director** - UK, Remote](/vacancies/2023-05-sales-director)
 
 🚀 [**Backend/Cloud Software Engineer** - UK, Remote](/vacancies/2023-05-backend-engineer-l1)
 
