@@ -2,12 +2,12 @@
 layout: default
 ---
 
-We are Beam Connectivity - Hello 👋🏼
+We are Beam Connectivity... _Hello!_ 👋🏼
 
-We build a platform is called CVaaS - Connected Vehicle as a Service - and it's made up of: 1) hardware and software that runs on a vehicle, 2) a cloud platform on AWS, and 3) some mobile apps. Our platform architecture (and org architecture!) is focussed on three pillars:
+We build a platform is called CVaaS, Connected Vehicle as a Service, and it's made up of: 1) hardware and software that runs on a vehicle, 2) a cloud platform on AWS, and 3) some mobile apps. Our platform architecture (and org architecture!) is focussed on three pillars:
 
-1. **Highly Performant** - Minimising the latency between vehicle ↔ cloud ↔ app, which in turn supercharges the User Experience.
-2. **Highly Secure** - Cyber security has never been more important and all indications are that the future will be even more hostile.
+1. **Highly Performant** - Minimising the latency between vehicle ↔ cloud ↔ app, which in turn supercharges the user experience.
+2. **Highly Secure** - Cyber security has never been more important and all indications are that the future will be even more challenging.
 3. **Highly Flexible** - Much like our team, our platform majors on rapid integration into a variety of vehicles and backoffice IT systems.
 
 We supply the complete, end-to-end platform so we can optimise the performance and security of the whole system rather than being locked into an API that we can't change. If you want to understand more about our platform, check out our main website at [https://beamconnectivity.com](https://beamconnectivity.com). After a successful first 3+ years and the recent [announcement of strategic funding](https://www.automotiveworld.com/news-releases/wae-announces-a-strategic-equity-investment-in-beam-connectivity-limited-supporting-the-commercialisation-of-connected-vehicle-systems/) from WAE Technologies, we have now secured new projects and are slowly expanding our team. 
