@@ -24,16 +24,7 @@ We collect the following data:
 * 🔒 Crash data - To diagnose user issues and improve the app.
 
 
-### Third party Data Processors
-
-The CVaaS platform is built on AWS, but we do leverage some other third party services that will process your data.
-
-* ☁️ Amazon Web Services - providing user authentication services and hosting for the CVaaS cloud databases
-* ☁️ Google Firebase - Crash reports and app telemetry
-* ☁️ Stripe - Payments for EV charging
-
 If you would like us to close your account and delete your user data, please email [privacy@beamconnectivity.com](mailto://privacy@beamconnectivity.com)
-
 
 ### Cloud Platform
 
@@ -45,7 +36,22 @@ To maximise data privacy of our CVaaS cloud platform, we commit to:
 * 🔒 Follow industry best practices for data collection and storage, such as encryption at rest and audited, least privilege access.
 * 🔒 Conduct AWS Well Architected reviews to ensure we consider all aspects of security and privacy.
 * 🔒 Work with customers to perform a Privacy Impact Assessment (PIA) in line with your own corporate processes.
+* 🔒 As a data processor for our clients, we will help get appropriate terms in place with their employees and users.
 * 🔒 Welcome scrutiny from customer privacy and security teams.
+
+### Third party Data Processors
+
+The CVaaS platform is built on AWS, but we do leverage some other third party services that will process your data.
+
+* ☁️ Amazon Web Services - providing user authentication services and hosting for the CVaaS cloud databases. 
+    * ⚖️ Privacy statement: https://aws.amazon.com/compliance/gdpr-center/
+    * ⚖️ Sub-processors: https://aws.amazon.com/compliance/sub-processors/
+* ☁️ Google Firebase - Crash reports and app telemetry.
+    * ⚖️ Privacy statement: https://cloud.google.com/privacy/gdpr 
+    * ⚖️ Sub-processors: https://cloud.google.com/terms/subprocessors 
+* ☁️ Stripe - Payments for EV charging
+    * ⚖️ Privacy statement: https://stripe.com/gb/legal/dpa 
+    * ⚖️ Sub-processors: https://stripe.com/gb/legal/service-providers
 
 
 # Cyber Security 
