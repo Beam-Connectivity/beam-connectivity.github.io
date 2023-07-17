@@ -46,7 +46,7 @@ We use the right tool for the job but do try to converge around a few, solid but
 
 * 🚗 **Embedded**: Linux, FreeRTOS, C, bash, python, SQLite + all kinds of hardware and dev boards!
 
-* ☁️ **Cloud Backend**: AWS serverless, python, REST, Grafana, Presto DB, Apache Spark, Cloudflare
+* ☁️ **Cloud Backend**: AWS (server-less: Lambda, DynamoDB, S3, Cognito, etc), python, REST, Grafana, Presto DB, Apache Spark, Cloudflare
 
 * 💻 **Frontend**: Typescript, React, REST, Cypress
 
@@ -89,7 +89,13 @@ We understand that the package is about more than just the salary, so we want to
 
 * 💻 Apple silicon MacBook or equivalent laptop
 
-* 👴🏼 Competitive pension
+* 👴🏼 Salary sacrifice pension
+
+* ⚖️ Life assurance
+
+* 🧑🏼‍⚕️ Private health insurance (including family)
+
+* 🦷 Private dental insurance
 
 * 🎉 Genuinely fun all company away days
 
