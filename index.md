@@ -106,7 +106,7 @@ These are some specific vacancies that we have:
 
 🚀 [**Sales Director** - UK, Remote](/vacancies/2023-05-sales-director)
 
-🚀 [**Backend/Cloud Software Engineer** - UK, Remote](/vacancies/2023-05-backend-engineer-l1)
+🚀 ~~Backend/Cloud Software Engineer~~ - Filled
 
 🚀 ~~Account Manager - UK, Remote~~ - Filled
 
