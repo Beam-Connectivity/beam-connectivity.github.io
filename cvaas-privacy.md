@@ -44,14 +44,14 @@ To maximise data privacy of our CVaaS cloud platform, we commit to:
 The CVaaS platform is built on AWS, but we do leverage some other third party services that will process your data.
 
 * ☁️ Amazon Web Services - providing user authentication services and hosting for the CVaaS cloud databases. 
-    * ⚖️ Privacy statement: https://aws.amazon.com/compliance/gdpr-center/
-    * ⚖️ Sub-processors: https://aws.amazon.com/compliance/sub-processors/
+    * ⚖️ Privacy statement: [https://aws.amazon.com/compliance/gdpr-center/](https://aws.amazon.com/compliance/gdpr-center/)
+    * ⚖️ Sub-processors: [https://aws.amazon.com/compliance/sub-processors/](https://aws.amazon.com/compliance/sub-processors/)
 * ☁️ Google Firebase - Crash reports and app telemetry.
-    * ⚖️ Privacy statement: https://cloud.google.com/privacy/gdpr 
-    * ⚖️ Sub-processors: https://cloud.google.com/terms/subprocessors 
+    * ⚖️ Privacy statement: [https://cloud.google.com/privacy/gdpr](https://cloud.google.com/privacy/gdpr)
+    * ⚖️ Sub-processors: [https://cloud.google.com/terms/subprocessors](https://cloud.google.com/terms/subprocessors)
 * ☁️ Stripe - Payments for EV charging
-    * ⚖️ Privacy statement: https://stripe.com/gb/legal/dpa 
-    * ⚖️ Sub-processors: https://stripe.com/gb/legal/service-providers
+    * ⚖️ Privacy statement: [https://stripe.com/gb/legal/dpa](https://stripe.com/gb/legal/dpa)
+    * ⚖️ Sub-processors: [https://stripe.com/gb/legal/service-providers](https://stripe.com/gb/legal/service-providers)
 
 
 # Cyber Security 
