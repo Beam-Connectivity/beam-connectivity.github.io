@@ -104,7 +104,7 @@ We understand that the package is about more than just the salary, so we want to
 
 These are some specific vacancies that we have:
 
-🚀 [**Sales Director** - UK, Remote](/vacancies/2023-05-sales-director)
+🚀 ~~Sales Director~~ - Filled
 
 🚀 ~~Backend/Cloud Software Engineer~~ - Filled
 
