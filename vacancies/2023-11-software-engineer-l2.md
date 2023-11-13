@@ -1,5 +1,5 @@
 ---
-title: "Role: Embedded Software Engineer"
+title: "Role: Software Engineer"
 category: Roles
 order: 1
 ---
@@ -43,7 +43,7 @@ As an embedded software engineer you will be focused on building our TCU (Telema
 
 We are looking for someone who takes pride in writing elegant software; someone who sees code as craft. Strong collaboration between disciplines is a feature of our agile practice, so being able to articulate technical detail at the right level for the audience is important. As you would be working with cutting-edge technology and we can guarantee the work will be challenging, exciting and satisfying.
 
-We have strong processes in place for the design and delivery of software, so are looking for someone who cna fit in with our engineering culture. During your time at Beam you will be working both on our core CVaaS product and also our cutting edge PoCs.
+We have strong processes in place for the design and delivery of software, so are looking for someone who can fit in with our engineering culture. During your time at Beam you will be working both on our core CVaaS product and also our cutting edge PoCs.
 
 #### Main responsibilities
 
@@ -71,7 +71,7 @@ These are the primary skills that the job entails.
 
 These are disciplines that we are already strong in because they're part of our core stack. Any experience you have with these would be a bonus, but is by no means a requirement.
 
-1. Networking and/or wireless comms - cellular, Wi-Fi, Bluetooth.
+1. Networking and/or wireless comms - cellular, Wi-Fi, Bluetooth, satellite.
 1. CAN devices or other bus protocols.
 1. Hardware prototyping experience with commodity components - e.g. Raspberry Pi, Arduino.
 1. DevOps mindset - knowing how and when to automate development and operational tasks.
