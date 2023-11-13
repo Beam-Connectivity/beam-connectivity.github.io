@@ -104,9 +104,9 @@ We understand that the package is about more than just the salary, so we want to
 
 These are some specific vacancies that we have:
 
-🚀 **Software Engineer - python, C** - UK, Remote
+🚀 [**Software Engineer - python, C** - UK, Remote]](/vacancies/2023-11-software-engineer-l2.md)
 
-🚀 ~~Sales Director~~ - Filled
+🚀 ~~Commercial Director~~ - Filled
 
 🚀 ~~Backend/Cloud Software Engineer~~ - Filled
 
