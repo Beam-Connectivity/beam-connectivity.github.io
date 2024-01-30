@@ -104,15 +104,21 @@ We understand that the package is about more than just the salary, so we want to
 
 These are some specific vacancies that we have:
 
-🚀 [**Software Engineer - python, C** - UK, Remote](/vacancies/2023-11-software-engineer-l2.md)
+🚀 **Quality Manager - Hardware/Software quality, Automotive SPICE** - UK, Remote - *Coming soon*
 
-🚀 ~~Commercial Director~~ - Filled
+🚀 [**Cloud Software Engineer - AWS, IaC, python** - UK, Remote](/vacancies/2024-02-cloud-software-engineer.md)
 
-🚀 ~~Backend/Cloud Software Engineer~~ - Filled
+🚀 [**Embedded Software Engineer - python, C** - UK, Remote](/vacancies/2023-11-software-engineer-l2.md)
 
-🚀 ~~Account Manager - UK, Remote~~ - Filled
+🚀 ~~Embedded Software Engineer~~ - *Filled*
 
-🚀 ~~Cloud Software Developer / Full-Stack Developer - UK, Remote~~ - Filled
+🚀 ~~Commercial Director~~ - *Filled*
+
+🚀 ~~Backend/Cloud Software Engineer~~ - *Filled*
+
+🚀 ~~Account Manager - UK, Remote~~ - *Filled*
+
+🚀 ~~Cloud Software Developer / Full-Stack Developer - UK, Remote~~ - *Filled*
 
 
 
