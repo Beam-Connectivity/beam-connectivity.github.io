@@ -49,21 +49,22 @@ We have strong processes in place for the design and delivery of software, so ar
 
 #### Main responsibilities
 
-1. Develop backend data processing features - data ingestion, analytics, data science.
-1. Develop web APIs for internal and third party integrations.
+1. Develop backend data processing features - APIs, data ingestion, analytics, data science.
+1. Champion automation and mature our IaC approach from Cloudformation to... 🤔
+1. Help manage our AWS environments, considering cost, maintenance and security 
 1. Work with the cloud team, reviewing each others' designs and code.
 1. Work as part of the wider team to integrate and debug the end-to-end system: Hardware, cloud and mobile apps.
-1. Help manage the DevOps toolchains across all our software teams: cloud, embedded and mobile app.
+1. Help manage the DevOps toolchain for the cloud software team
 
 #### Core skills
 
 These are the primary skills that the job entails.
 
 1. Be a good communicator - working remotely requires that we are comfortable articulating really complex things
-1. Real-world experience with AWS - deploying resources and troubleshooting (usually IAM policies 😉)
+1. Real-world experience with AWS - deploying resources and troubleshooting (usually IAM policies 😔)
 1. Proficient with IaC deployemnt through CloudFormation or Terraform.
-1. Confident in python - familiarity with production-grade python code, dependency management, linting, testing, etc
 1. Networking theory and security mindset - understanding the networking and security fundamentals, configuring VPCs 
+1. Confident in python - familiarity with production-grade python code, dependency management, linting, testing, etc
 1. Shell scripting to support devops processes.
 1. Investigative and innovative - able to solve problems, make technical leaps and find solutions as part of a team or (sometimes) on your own
 1. Being a nice person - we are a distributed team, so building and maintaining relationships within the team is key!
