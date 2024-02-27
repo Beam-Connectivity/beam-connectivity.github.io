@@ -108,7 +108,9 @@ These are some specific vacancies that we have:
 
 🚀 [**Cloud Software Engineer - AWS, IaC, python** - UK, Remote](/vacancies/2024-02-cloud-software-engineer.md)
 
-🚀 [**Embedded Software Engineer - python, C** - UK, Remote](/vacancies/2023-11-software-engineer-l2.md)
+🚀 ~~Cyber Security Product Director~~ - *Filled*
+
+🚀 ~~Embedded Software Engineer~~ - *Filled*
 
 🚀 ~~Embedded Software Engineer~~ - *Filled*
 
