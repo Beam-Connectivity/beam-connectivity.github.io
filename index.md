@@ -108,7 +108,7 @@ These are some specific vacancies that we have:
 
 🚀 [**Mobile App Developer - Kotlin, Swift** - UK, Remote](/vacancies/2024-05-mobile-app-dev.md)
 
-🚀 [**Cloud Software Engineer - AWS, IaC, python** - UK, Remote](/vacancies/2024-02-cloud-software-engineer.md)
+🚀 ~~Cloud Software Engineer~~ - *Filled*
 
 🚀 ~~Cyber Security Product Director~~ - *Filled*
 
