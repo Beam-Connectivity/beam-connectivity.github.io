@@ -106,7 +106,7 @@ These are some specific vacancies that we have:
 
 🚀 **Quality Manager - Hardware/Software quality, Automotive SPICE** - UK, Remote - *Coming soon*
 
-🚀 [**Mobile App Developer - Kotlin, Swift** - UK, Remote](/vacancies/2024-05-mobile-app-dev.md)
+🚀 ~~Mobile App Developer~~ - *Filled*
 
 🚀 ~~Cloud Software Engineer~~ - *Filled*
 
