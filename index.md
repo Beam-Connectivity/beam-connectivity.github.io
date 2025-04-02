@@ -19,7 +19,7 @@ This site is all about our Beam Team developers - our high performance, cross-fu
 
 Founded in early 2020, we are sustainably growing the team to match our new customer commitments. So, what makes Beam special?
 
-* 🚗 We work at the cutting edge of automotive & mobility technology - Connected cars, EVs, e-bikes, e-scooters, cyber security
+* 🚗 We work at the cutting edge of mobility and IIoT technology - Connected cars, EVs, e-bikes, e-scooters, cyber security
 
 * 🌍 We try to do our bit to [make the world a better place](https://www.youtube.com/watch?v=B8C5sjjhsso) by working with clients supporting sustainable mobility
 
@@ -35,7 +35,7 @@ Founded in early 2020, we are sustainably growing the team to match our new cust
 
 * ✂ As a small company, there is no bureaucracy and decisions are made by the people closest to the problem
 
-* 🌴 We have plans to steadily scale over the few years, so early hires have the opportunity to grow and lead when the time is right 
+* 🌴 We have plans to steadily scale over the next few years, so you have the opportunity to grow and lead when the time is right 
 
 * 🥳 We build great products and have fun doing it
 
@@ -67,7 +67,7 @@ We recruit for potential and to maximise fit with the team, rather than demandin
 
 This is the interview process: 
 
-1. **Background reading** - We will review your CV and any other information you provide such as your github account, LinkedIn profile and any community projects you've worked on. We ask that you review our [website](https://beamconnectivity.com), [twitter](https://twitter.com/we_are_beam) and [LinkedIn](https://www.linkedin.com/company/beam-connectivity) pages. The aim here is to each get an idea of each other's background.
+1. **Background reading** - We will review your CV and any other information you provide such as your github account, LinkedIn profile and any community projects you've worked on. We ask that you review our [website](https://beamconnectivity.com) and [LinkedIn](https://www.linkedin.com/company/beam-connectivity) pages. The aim here is to each get an idea of each other's background.
 1. **Initial meeting** - This is an opportunity for you to understand who Beam Connectivity are and for us to learn more about you. This stage is less about technical knowledge and more about where you've been and where you want to go. *30 minutes - 1 hour*
 1. **Technical interview** - Now that we know a bit about each other, we will work through some of the more technical aspects of the role. *1 - 2 hours*
     * **Engineering roles** - We will typically ask you to talk through a project that you've recently worked on and we might ask you to whiteboard out the inner workings and ask questions about how you debug issues - that kind of thing. We promise not to ask you any brain teasers or trick questions, and we won’t make you write code in front of us. 
@@ -104,7 +104,7 @@ We understand that the package is about more than just the salary, so we want to
 
 These are some specific vacancies that we have:
 
-🚀 **Quality Manager - Hardware/Software quality, Automotive SPICE** - UK, Remote - *Coming soon*
+🚀 **Fullstack Developer** - UK, Remote
 
 🚀 ~~Mobile App Developer~~ - *Filled*
 
