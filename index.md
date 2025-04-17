@@ -104,7 +104,7 @@ We understand that the package is about more than just the salary, so we want to
 
 These are some specific vacancies that we have:
 
-🚀 **Fullstack Developer** - UK, Remote
+🚀 [**Fullstack Developer (Frontend focus)** - UK, Remote](/vacancies/2025-04-fullstack-developer-l2)
 
 🚀 ~~Mobile App Developer~~ - *Filled*
 
